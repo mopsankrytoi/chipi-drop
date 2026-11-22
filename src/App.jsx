@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import {
   Gift, Home, Package, UserRound, Sparkles, ChevronRight,
   Leaf, ShieldCheck, Star, CircleHelp
